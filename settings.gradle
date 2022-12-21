@@ -1,3 +1,4 @@
 rootProject.name = 'product_service'
+include 'product-composite'
 include 'review'
 include 'recommendation'
