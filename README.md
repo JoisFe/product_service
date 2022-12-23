@@ -39,7 +39,7 @@
 ### Frameworks
 
 ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)
-![SpringCloud](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=SpringCloud&logoColor=black)
+![SpringCloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat&logo=SpringCloud&logoColor=black)
 
 ### Languages
 
