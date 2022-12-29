@@ -26,7 +26,7 @@
 ## Tech Stack
 ### Build Tools
 
-![Gradle]((https://img.shields.io/badge/Gradle-#02303A?style=flat&logo=Gradle&logoColor=white))
+![Gradle](https://img.shields.io/badge/Gradle-#02303A?style=flat&logo=Gradle&logoColor=white)
 
 ### Datebases
 
